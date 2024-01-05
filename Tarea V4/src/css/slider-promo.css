@@ -1,0 +1,7 @@
+
+
+/* Estilo para cambiar el color de los controles del carrusel a negro */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(0) grayscale(100%) brightness(0);
+}
